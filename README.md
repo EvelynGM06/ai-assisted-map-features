@@ -1,11 +1,10 @@
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Research](https://img.shields.io/badge/Type-Research-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 # AI-Assisted Detection of Community Relevant Map Features
 
 Computer vision and geospatial analysis pipeline for detecting community relevant map features from satellite imagery.
 
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Research](https://img.shields.io/badge/Type-Research-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## Project Overview
