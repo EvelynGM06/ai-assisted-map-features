@@ -1,10 +1,10 @@
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Research](https://img.shields.io/badge/Type-Research-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # Project Title
 
 Short project description.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
-![Research](https://img.shields.io/badge/Research-blue?style=for-the-badge)
 
 ---
 
