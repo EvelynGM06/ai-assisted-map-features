@@ -1,0 +1,7 @@
+Aunque no se suban los dataets
+data/
+├── raw/
+└── processed/
+# Data Availability
+
+The original datasets are not distributed due to licensing, confidentiality or research restrictions.
